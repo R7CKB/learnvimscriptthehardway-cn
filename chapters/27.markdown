@@ -76,7 +76,7 @@ Vim显示`foo`和`FOO`。这很浅显易懂吧。
 
 执行`:echo split('1   2')`和`:echo split('1,,,2',',')`。它们表现一致吗？
 
-阅读`:help splt()`。
+阅读`:help split()`。
 
 阅读`:help join()`。
 
