@@ -50,7 +50,7 @@ Execute危险吗？
 ---------
 
 浏览`:help execute`来明了哪些命令你可以用`execute`实现而哪些不可以。
-但当涉猎，因为我们很快将重新审视这个问题。
+仅仅只是涉猎，因为我们很快将重新审视这个问题。
 
 阅读`:help leftabove`，`:help rightbelow`，`:help :split`和`:help :vsplit`(注意最后两个条目中额外的分号)。
 
